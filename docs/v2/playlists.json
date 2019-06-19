@@ -14,11 +14,11 @@
     "Description": "Get up and running quickly with our Excel Quick Start. Learn how to create a workbook, save to OneDrive, analyze and format data, and share workbooks.",
     "StatusTag": "",
     "Assets": [
-      "94b00f50-5896-479c-b0c5-ff74603b35a3",
       "0cf0055d-49f8-464e-9dfa-8f582b32453b",
       "11a632c1-197e-454f-a515-374a4aa2b3dd",
       "a8af741e-00f2-44c0-a94b-38abd51af01f",
-      "64b51431-c51a-45db-8ddd-d58b9b101c42"
+      "64b51431-c51a-45db-8ddd-d58b9b101c42",
+      "94b00f50-5896-479c-b0c5-ff74603b35a3"
     ]
   },
   {
@@ -723,7 +723,7 @@
     "Description": "Learn how to get started quickly with Office 365 with six simple steps",
     "StatusTag": "",
     "Assets": [
-	  "365-378767af-7ac3-4d68-9d0f-709b6948a76b",
+      "365-378767af-7ac3-4d68-9d0f-709b6948a76b",
       "1fa93876-0318-4622-b473-142a3bfd6495",
       "fb440590-1b4d-4562-94ba-61123b299e3d",
       "be096b45-709c-473a-afb9-f7a998b3f435",
@@ -1966,6 +1966,24 @@
       "6f739c5e-bb13-4ce9-9301-abf4a9cac9e2",
       "9655a0e0-34f0-4805-8221-420ae713e0d0",
       "b1d3baac-83e4-4d1a-8f8c-bb5e02409a37"
+    ]
+  },
+  {
+    "Id": "184d0367-c732-4829-8f88-0eb0c868a46e",
+    "Title": "Stream intro",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Stream",
+    "Subject": "",
+    "Category": "Products",
+    "SubCategory": "Forms",
+    "Source": "SOC",
+    "CatId": "daeade40-9dfc-4d82-84be-9ae7544829dc",
+    "Description": "",
+    "StatusTag": "New",
+    "Assets": [
+      "427d3ccd-bbc3-4906-a7de-0877ac39b744"
     ]
   }
 ]

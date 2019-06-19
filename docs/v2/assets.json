@@ -1,7 +1,7 @@
 [
   {
     "Id": "94b00f50-5896-479c-b0c5-ff74603b35a3",
-    "Title": "Create a worksheet",
+    "Title": "Create a worksheet for beginners",
     "Description": "",
     "Url": "https://support.office.com/en-us/client/94b00f50-5896-479c-b0c5-ff74603b35a3?embed=true&ns=trainingservices&version=1",
     "Level": "Beginner",
@@ -7291,6 +7291,22 @@
     "Category": "Scenarios",
     "SubCategory": "Modern Workplace",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "MediaId": "",
+    "Source": "SOC",
+    "StatusTag": "New"
+  },
+  {
+    "Id": "427d3ccd-bbc3-4906-a7de-0877ac39b744",
+    "Title": "test asset 1",
+    "Description": "",
+    "Url": "https://m365x953510.sharepoint.com/sites/M365LP/SitePages/CustomLearningAdmin.aspx",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Stream",
+    "Subject": "",
+    "Category": "Products",
+    "SubCategory": "Forms",
+    "CatId": "daeade40-9dfc-4d82-84be-9ae7544829dc",
     "MediaId": "",
     "Source": "SOC",
     "StatusTag": "New"
